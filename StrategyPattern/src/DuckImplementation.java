@@ -14,6 +14,15 @@ public class DuckImplementation {
 
         // Print them to check if they are working fine
         System.out.println(simpleDuckBehaviour.toString());
+        System.out.println("Prediction :: \n");
+        simpleDuckBehaviour.duckPrediction();
+
+        System.out.println("-------------------------------- \n");
+
         System.out.println(complexDuckBehaviour.toString());
+        System.out.println("Prediction :: \n");
+        complexDuckBehaviour.duckPrediction();
+
+
     }
 }
