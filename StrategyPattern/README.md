@@ -1,0 +1,1 @@
+The strategy pattern is one of the Behavioral design patterns that allows you to choose between different algorithms on the fly at run-time. Please go thru the source files for a better understanding.
