@@ -1,0 +1,3 @@
+The Observer pattern basically helps you differentiate between push vs poll. When you are polling for the updates from the observable or the publisher, you'd actually have to be aware that you might miss out some data because of the polling frequency. This pattern is the reverse of it, the subscribers register to the publisher and the publisher just pushes the data to the subscribers, which eliminates polling.
+
+There is a connection from the concrete subscriber to the publisher to get the current data of the publisher, because notify just notifies that there is an update from the publisher but it doesn't say what data is being updated._
