@@ -1,0 +1,1 @@
+The decorator pattern is used to add layers on top of a base class. This does not modify the interface but changes the way it is implemented in run time. This pattern is similar to recursion in programming, the lower most level is the base class and all the other classes are added on it depending on the necessities/requirements.
