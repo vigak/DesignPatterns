@@ -1,0 +1,1 @@
+The Bridge pattern is like the adapter pattern but the only difference is, you use an adapter after the problem arises and you use a bridge pattern before the problem arises. Its simple as that and that's all you need to remember about this pattern.
