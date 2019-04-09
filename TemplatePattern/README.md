@@ -1,0 +1,1 @@
+This pattern is generally not recommended since this uses hardcore inheritance over composition. But if the need is to abstract away the template from the end user but still let the user to do some implementations if needed, then this class can be used. 
